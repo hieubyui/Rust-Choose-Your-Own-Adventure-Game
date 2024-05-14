@@ -11,21 +11,12 @@ The purpose of this project was to learn a language on my own and get a basic gr
 
 I used Visual Studio Code and Rust Programming Language Book.
 
-{Describe the programming language that you used and any libraries.}
-
-I used Rust programming language 
+I used Rust programming language, VS code, and cargo package.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+https://doc.rust-lang.org/book/
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+Learn cleaner ways to call functions.
