@@ -1,0 +1,1 @@
+C:\Users\New\ User\Desktop\VisualCode\ BYU\rust_adventure_game\Rust-Choose-Your-Own-Adventure-Game\adventure_game\target\debug\adventure_game.exe: C:\Users\New\ User\Desktop\VisualCode\ BYU\rust_adventure_game\Rust-Choose-Your-Own-Adventure-Game\adventure_game\src\main.rs
